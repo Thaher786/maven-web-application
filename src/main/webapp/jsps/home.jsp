@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to the "Saddam-Baba"  Devops learning hub</h1>
 <h1 align="center">Baba Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <h2 align="center">KING BABA FAROOQ SKILL LEARNING SENTER FOR POOR STUDENTS</h2>
-<h3 align="center">WELL COME TO DASARA SALE OFFERS & ATOMATED A JOB AFETER ANY CHANGES ON SCR  ok </h3>
+<h3 align="center">WELL COME TO DASARA SALE OFFERS JON & ATOMATED A JOB AFETER ANY CHANGES ON SCR  ok </h3>
 <h4 align="center"> LUCIFER THE MORNIG STAR</h4>
 <h5>=========================================================================================================================================================================</h5>
 <hr>
